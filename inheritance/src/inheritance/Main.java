@@ -18,7 +18,7 @@ public class Main {
 		company.taxNumber="11111";
 		
 		CustomerManager customerManager=new CustomerManager();
-		//customerManager.add(company);
+		///customerManager.add(company);
 		//customerManager.add(person);
 		
 		Customer[] customers= {person,company};
