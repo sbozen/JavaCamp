@@ -29,7 +29,7 @@ public class Main {
 		System.out.println(category2.getName());
 		
 		/*
-		 * 
+		  
 		Product[] products= {product1,product2,product3};
 		
 		for (Product product:products) {
